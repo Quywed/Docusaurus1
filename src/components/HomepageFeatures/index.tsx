@@ -39,6 +39,15 @@ const FeatureList: FeatureItem[] = [
       </>
     ),
   },
+  {
+    title: 'TESTE',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    description: (
+      <>
+        TESTE
+      </>
+    ),
+  },
 ];
 
 function Feature({title, Svg, description}: FeatureItem) {
