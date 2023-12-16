@@ -16,8 +16,10 @@ function HomepageHeader() {
     <header
       className={clsx('hero hero--primary', styles.heroBanner)}
       style={{
-        backgroundImage: `url(${carImageURL})`,
+        backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(${carImageURL})`,
         backgroundSize: 'cover',
+        backgroundRepeat: 'no-repeat',
+        height: '310px', // Set the desired height
       }}
     >
       <div className="container">
