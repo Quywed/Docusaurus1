@@ -89,28 +89,33 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Contacto',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Numero de Telefone Fixo:',
               },
+              {
+                label: 'Email: ',
+              }
+              {
+                label: 'Fax: ',
+              }
             ],
           },
           {
-            title: 'Community',
+            title: 'Redes Sociais',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'TikTok',
+                href: 'https://www.tiktok.com/@oficinadoze',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discordapp.com/invite/oficinadoze',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/oficinadoze',
               },
             ],
           },
@@ -128,7 +133,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Todos os diretios reservados © ${new Date().getFullYear()} Oficina do Zé, Inc.`,
       },
       prism: {
         theme: lightCodeTheme,
