@@ -89,17 +89,12 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Contacto',
+            title: 'Docs',
             items: [
               {
-                label: 'Numero de Telefone Fixo:',
+                label: 'Tutorial',
+                to: '/docs/intro',
               },
-              {
-                label: 'Email: ',
-              },
-              {
-                label: 'Fax: ',
-              }
             ],
           },
           {
