@@ -10,7 +10,6 @@
 
 Encontre nossas oficinas nos seguintes locais:
 
-![Mapa das Oficinas](link_para_imagem_do_mapa)
 
 ### Oficina Principal
 
