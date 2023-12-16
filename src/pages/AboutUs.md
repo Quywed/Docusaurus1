@@ -1,4 +1,5 @@
 # Sobre Nós
+![Entrada da Oficina do Zé](Docusaurus1/static/img/EntradaOficinaDoZe.png)
 
 **Bem-vindo à Oficina do Zé!**
 
