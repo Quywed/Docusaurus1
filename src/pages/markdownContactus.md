@@ -28,17 +28,3 @@ To inquire, please fill out the form below:
 ## Workshop Locations
 
 Find our workshops at the following locations:
-
-### Main Workshop
-
-![Main Workshop Location](link_to_main_workshop_map_image)
-
-- **Address:** 456 Workshop Avenue, Townsville, Country
-- **Phone Number:** +1 (555) 987-6543
-
-### Satellite Workshop
-
-![Satellite Workshop Location](link_to_satellite_workshop_map_image)
-
-- **Address:** 789 Workshop Street, Villagetown, Country
-- **Phone Number:** +1 (555) 321-0987
