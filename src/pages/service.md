@@ -15,7 +15,7 @@
 
 Aseguramos a longevidade do seu motor com os nossos Oleos Topo de Gama.
 
-![Troca de Óleo](/img/troca-de-oleo.webp)
+![Troca de Óleo](/img/troca-de-oleo.webp){: style="width: 300px; height: 200px;"}
 
 ### O Serviços Inclui 
 
