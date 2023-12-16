@@ -1,6 +1,6 @@
-# Entre em Contato
+# Entre em Contacto
 
-## Detalhes de Contato
+## Detalhes
 
 - **Endereço:**  Rua Vale do poço de égua, 8, Lagos, Portugal
 - **Telefone:** 9677 tira tira mete mete
