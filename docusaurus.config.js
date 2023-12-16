@@ -89,12 +89,19 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Contactos',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Email',
+                to: 'OficinaZe@gmail.com',
               },
+              {
+                label: 'Telefone: +351 9677tiratirametemete'
+              },
+              {
+                label: 'Fax',
+                to: 'https://tutoria.ualg.pt'
+              }
             ],
           },
           {
