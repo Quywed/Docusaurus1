@@ -10,7 +10,7 @@ import styles from './index.module.css';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   const carImageURL =
-    'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Photographer.jpg/800px-Photographer.jpg?20070216144122'; // Replace with an appropriate car workshop image
+    'https://www.shutterstock.com/image-vector/auto-repair-service-car-workshop-600nw-1945441306.jpg'; // Replace with an appropriate car workshop image
 
   return (
     <header
