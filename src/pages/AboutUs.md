@@ -26,5 +26,7 @@ Na Oficina do Zé, valorizamos a qualidade em cada serviço prestado. Utilizamos
 **Contate-nos para agendar uma revisão ou para saber mais sobre nossos serviços!**
 
 Telefone: 9677 tira tira mete mete
+
 Email: OficinaZe@gmail.com
+
 Endereço: Rua Vale do poço de égua, 8, Lagos, Portugal
