@@ -24,10 +24,13 @@ function HomepageHeader() {
     >
       <div className="container">
         <div className={styles.bannerContent}>
-          <h1 className="hero__title">{siteConfig.title}</h1>
+          <h1  className="hero__title"
+            style={{ color: 'orange' }} // Set the color to black
+            >{siteConfig.title}
+          </h1>
           <p
             className="hero__subtitle"
-            style={{ color: 'black' }} // Set the color to black
+            style={{ color: 'orangered' }} // Set the color to black
           >
             {siteConfig.tagline}
           </p>
