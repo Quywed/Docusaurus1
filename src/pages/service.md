@@ -1,82 +1,68 @@
-# Car Workshop Services
+# Serviços da Oficina do Zé
 
-Welcome to our car workshop! We offer a range of services to keep your vehicle running smoothly. Explore our services below:
+ Oferecemos uma variadade de serviçoes para manter o seu veiculo impecavel. Explore os nossos Serviços em baixo:
 
-## Overview of Services
+## Principais Serviços da nossa Oficina
 
-- [Oil Change](#oil-change)
-- [Tire Rotation](#tire-rotation)
-- [Brake Inspection](#brake-inspection)
-- [Engine Tune-Up](#engine-tune-up)
-
----
-
-## Oil Change
-
-Ensure the longevity of your engine with our comprehensive oil change service.
-
-### Service Includes
-
-- Drain and replace old oil
-- Replace oil filter
-- Check and top up fluids
-- Visual inspection of engine components
-
-### Pricing
-
-Contact us for current pricing information.
+- [Troca de Oleo](#troca-Oleo)
+- [Troca de Pneus](#troca-pneu)
+- [Inspeções](#inspecoes)
+- [Tune-up ao seu Motor](#motor-tune-up)
 
 ---
 
-## Tire Rotation
+## Troca de Oleo
 
-Maximize the lifespan of your tires and enhance overall vehicle performance with our tire rotation service.
+Aseguramos a longevidade do seu motor com os nossos Oleos Topo de Gama.
 
-### Service Includes
+### O Serviços Inclui 
 
-- Rotate tires to ensure even wear
-- Check and adjust tire pressure
-- Visual inspection for signs of damage or uneven wear
-
-### Pricing
-
-Contact us for current pricing information.
+- Drena e troca de Oleo Velho
+- Troca do Filtro do Oleo
+- Verificação de todos os fluidos
+- Inspeção visual aos componentes do motor
 
 ---
 
-## Brake Inspection
+## Troca de Pneus
 
-Safety is our priority! Schedule a brake inspection to ensure your vehicle's braking system is in optimal condition.
+Maximize a durabilidade dos seus pneus e melhora a performance com os nossos penus.
 
-### Service Includes
+### O Serviços Inclui 
 
-- Visual inspection of brake pads and discs
-- Brake fluid check
-- Brake system performance test
-
-### Pricing
-
-Contact us for current pricing information.
+- Rodagem dos seus pneus para garantir um desgaste uniforme.
+- Verificação e ajuste na pressao dos pneus
+- Inspeção visual aos pnus para ver danos ou desgaste irregular
 
 ---
 
-## Engine Tune-Up
+## Inspeção
 
-Improve fuel efficiency and overall engine performance with our engine tune-up service.
+Nós oferecemos uma inspecao completa do seu veiculo para garantir que o seu veículo esteja em perfeitas condições. 
 
-### Service Includes
+### O Serviços Inclui 
 
-- Replace spark plugs
-- Adjust ignition timing
-- Inspect and replace air filter
-- Check and adjust drive belts
-
-### Pricing
-
-Contact us for current pricing information.
+- Teste completo ao seu carros
 
 ---
 
-Feel free to reach out to us for any additional information or to schedule an appointment. We look forward to serving you and your vehicle!
+## Tune-Up ao seu Motor
 
-*Note: Prices may vary based on the make and model of the vehicle. Contact us for accurate pricing information.*
+Melhore a eficiência e o desempenho geral do seu motor com o nosso serviço tuning.
+
+### O Serviços Inclui 
+
+- Troca de injetores
+- Ajuste no timing da ignição
+- Inspeção e troca do filtro de ar
+- Ajuste da correia
+
+### Preço
+
+Entre em Contacto connosco para informação de Preços sobre os nossos serviços.
+
+---
+
+Fique a vontade de entrar em contacto connoste se tiver alguva duvida ou quiser agendar um serviço. Esperemos Ve-lo por Cá!
+
+*Note: O preço pode variar com base na marca e modelo do seu Veiculo.
