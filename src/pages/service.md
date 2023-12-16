@@ -15,7 +15,7 @@
 
 Aseguramos a longevidade do seu motor com os nossos Oleos Topo de Gama.
 
-![Troca de Óleo](https://www.google.com/url?sa=i&url=https%3A%2F%2Frevisao.localiza.com%2Fblog%2Ftroca-de-oleo-do-carro&psig=AOvVaw0I5ZqsA_MuKFmoAYIZm_rP&ust=1702840645436000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCWo_LVlIMDFQAAAAAdAAAAABA)
+![Troca de Óleo](C:\Users\pedrodgoncalves\Desktop\fotos\troca-de-oleo.webp)
 
 ### O Serviços Inclui 
 
