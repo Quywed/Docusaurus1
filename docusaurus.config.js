@@ -65,7 +65,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'O meu website',
+        title: 'Oficina do Zé',
         logo: {
           alt: 'Logotipo da empresa',
           src: 'img/carro.svg',
