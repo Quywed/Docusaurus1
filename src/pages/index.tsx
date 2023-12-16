@@ -30,7 +30,7 @@ function HomepageHeader() {
           </h1>
           <p
             className="hero__subtitle"
-            style={{ color: 'orangered' }} // Set the color to black
+            style={{ color: 'darkred' }} // Set the color to black
           >
             {siteConfig.tagline}
           </p>
