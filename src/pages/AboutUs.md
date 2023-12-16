@@ -1,6 +1,5 @@
 # Sobre Nós
-![Entrada da Oficina do Zé](/static/img/EntradaOficinaDoZe.png)
-
+![Entrada da Oficina do Zé](/static/img/EntradaOficinaDoZe.jpg)
 **Bem-vindo à Oficina do Zé!**
 
 Somos uma equipa dedicada apaixonada por carros e comprometida em oferecer os melhores serviços de manutenção e reparação automotiva. Na Oficina do Zé, acreditamos em proporcionar uma experiência excepcional aos nossos clientes, combinando habilidade técnica, atendimento personalizado e um ambiente confiável para cuidar do seu veículo.
