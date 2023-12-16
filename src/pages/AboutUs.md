@@ -9,6 +9,8 @@ Somos uma equipa dedicada apaixonada por carros e comprometida em oferecer os me
 Nosso objetivo é fornecer serviços de alta qualidade, mantendo a transparência e a confiança com nossos clientes. Estamos empenhados em garantir a segurança e o desempenho dos veículos que entram em nossas instalações, entregando excelência em cada reparo, manutenção ou diagnóstico.
 
 ## A Face do Nosso Negócio
+![Imagem do Zé](/img/ZeMecanico.jpg)
+
 Conheça o Zé e a nossa equipa dedicada de profissionais! Somos pessoas reais apaixonadas por carros e dedicadas a oferecer a si a melhor experiência em cuidados automotivos. Encontrará nossos rostos sorridentes prontos para ajudar e garantir que seu veículo receba um serviço de alta qualidade.
 
 ## A Nossa História de Marca
@@ -23,6 +25,7 @@ A Oficina do Zé nasceu do amor por carros e do desejo de oferecer serviços exc
 - **Inspeção e Diagnóstico:** Utilizamos tecnologia avançada para identificar problemas e oferecer soluções precisas.
 - **Atendimento Personalizado:** Cada cliente é único; portanto, oferecemos um atendimento dedicado e consultas personalizadas.
 - **Troca de Óleo:** Utilizamos óleos de qualidade para garantir a lubrificação adequada do motor do seu veículo.
+![Imagem de um empregado a arranjar carro](/img/NIGERIANmanFixingCar.jpg)
 
 ## Compromisso com a Qualidade
 
