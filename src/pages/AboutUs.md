@@ -1,6 +1,6 @@
 # Sobre Nós
 
-Bem-vindo à Oficina do Zé!
+**Bem-vindo à Oficina do Zé!**
 
 Somos uma equipa dedicada apaixonada por carros e comprometida em oferecer os melhores serviços de manutenção e reparação automotiva. Na Oficina do Zé, acreditamos em proporcionar uma experiência excepcional aos nossos clientes, combinando habilidade técnica, atendimento personalizado e um ambiente confiável para cuidar do seu veículo.
 
@@ -26,5 +26,7 @@ Na Oficina do Zé, valorizamos a qualidade em cada serviço prestado. Utilizamos
 **Contate-nos para agendar uma revisão ou para saber mais sobre nossos serviços!**
 
 Telefone: 9677 tira tira mete mete
+
 Email: OficinaZe@gmail.com
+
 Endereço: Rua Vale do poço de égua, 8, Lagos, Portugal
