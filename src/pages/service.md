@@ -4,10 +4,10 @@
 
 ## Principais Serviços da nossa Oficina
 
-- [Troca de Oleo](#troca-Oleo)
-- [Troca de Pneus](#troca-pneu)
-- [Inspeções](#inspecoes)
-- [Tune-up ao seu Motor](#motor-tune-up)
+- [Troca de Oleo](#troca-de-Oleo)
+- [Troca de Pneus](#troca-de-pneus)
+- [Inspeções](#inspecao)
+- [Tune-up ao seu Motor](#tune-up-ao-seu-motor)
 
 ---
 
@@ -65,4 +65,4 @@ Entre em Contacto connosco para informação de Preços sobre os nossos serviço
 
 Fique a vontade de entrar em contacto connoste se tiver alguva duvida ou quiser agendar um serviço. Esperemos Ve-lo por Cá!
 
-*Note: O preço pode variar com base na marca e modelo do seu Veiculo.
+*Nota: O preço pode variar com base na marca e modelo do seu Veiculo.
