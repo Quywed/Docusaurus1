@@ -1,11 +1,21 @@
-# Contact Us
+# Entre em Contato
 
-## Contact Details
+## Detalhes de Contato
 
-- **Address:** 123 Main Street, Cityville, Country
-- **Phone Number:** +1 (555) 123-4567
-- **Email:** info@example.com
+- **Endereço:** Rua Principal, 123, Cidade, País
+- **Telefone:** +55 (12) 3456-7890
+- **E-mail:** contato@exemplo.com
 
-## Workshop Locations
+## Mapa com Localização das Oficinas
 
-Find our workshops at the following locations:
+Encontre nossas oficinas nos seguintes locais:
+
+![Mapa das Oficinas](link_para_imagem_do_mapa)
+
+### Oficina Principal
+
+- **Endereço:** Avenida da Oficina, 456, Cidade, País
+
+### Oficina Secundária
+
+- **Endereço:** Rua da Oficina, 789, Cidade, País
