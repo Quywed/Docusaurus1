@@ -25,7 +25,7 @@ function HomepageHeader() {
         </div>
         <img
           className={styles.bannerImage}
-          src="/static/img/home_header.png" // Replace with your image path
+          src="/img/home_header.jpg" // Replace with your image path
           alt="Banner Image"
         />
       </div>
