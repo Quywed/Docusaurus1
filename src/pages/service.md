@@ -4,10 +4,10 @@
 
 ## Principais Serviços da nossa Oficina
 
-- [Troca de Oleo](#Troca-de-Oleo)
-- [Troca de Pneus](#Troca-de-Pneus)
-- [Inspeção](#Tnspecao)
-- [Tune-up ao seu Motor](#Tune-up-ao-seu-Motor)
+- [Troca de Oleo](#troca-de-oleo)
+- [Troca de Pneus](#troca-de-pneus)
+- [Inspeção](#inspecao)
+- [Tune-up ao seu Motor](#tune-up-ao-seu-motor)
 
 ---
 
