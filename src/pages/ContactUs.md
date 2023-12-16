@@ -2,17 +2,14 @@
 
 ## Detalhes de Contato
 
-- **Endereço:** Rua Principal, 123, Cidade, País
-- **Telefone:** +55 (12) 3456-7890
-- **E-mail:** oficinadoze@exemplo.com
+- **Endereço:**  Rua Vale do poço de égua, 8, Lagos, Portugal
+- **Telefone:** 9677 tira tira mete mete
+- **E-mail:** OficinaZe@gmail.com
 
-## Mapa com Localização das Oficinas
+## Mapa com Localização da Oficina
 
 
-### Oficina Principal
 
-- **Endereço:** Avenida da Oficina, 456, Cidade, País
 
-### Oficina Secundária
 
-- **Endereço:** Rua da Oficina, 789, Cidade, País
+
