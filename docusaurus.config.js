@@ -96,11 +96,12 @@ const config = {
                 to: 'OficinaZe@gmail.com',
               },
               {
-                label: 'Telefone: +351 9677tiratirametemete'
+                label: 'Telefone: +351 9677tiratirametemete',
+                to: '9677tiratirametemete',
               },
               {
                 label: 'Fax',
-                to: 'https://tutoria.ualg.pt'
+                to: 'https://tutoria.ualg.pt',
               },
             ],
           },
