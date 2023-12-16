@@ -101,7 +101,7 @@ const config = {
               {
                 label: 'Fax',
                 to: 'https://tutoria.ualg.pt'
-              }
+              },
             ],
           },
           {
