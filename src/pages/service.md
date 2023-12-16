@@ -15,14 +15,14 @@ Welcome to our car workshop! We offer a range of services to keep your vehicle r
 
 Ensure the longevity of your engine with our comprehensive oil change service.
 
-### Service Includes:
+### Service Includes
 
 - Drain and replace old oil
 - Replace oil filter
 - Check and top up fluids
 - Visual inspection of engine components
 
-### Pricing:
+### Pricing
 
 Contact us for current pricing information.
 
@@ -32,13 +32,13 @@ Contact us for current pricing information.
 
 Maximize the lifespan of your tires and enhance overall vehicle performance with our tire rotation service.
 
-### Service Includes:
+### Service Includes
 
 - Rotate tires to ensure even wear
 - Check and adjust tire pressure
 - Visual inspection for signs of damage or uneven wear
 
-### Pricing:
+### Pricing
 
 Contact us for current pricing information.
 
@@ -48,13 +48,13 @@ Contact us for current pricing information.
 
 Safety is our priority! Schedule a brake inspection to ensure your vehicle's braking system is in optimal condition.
 
-### Service Includes:
+### Service Includes
 
 - Visual inspection of brake pads and discs
 - Brake fluid check
 - Brake system performance test
 
-### Pricing:
+### Pricing
 
 Contact us for current pricing information.
 
@@ -64,14 +64,14 @@ Contact us for current pricing information.
 
 Improve fuel efficiency and overall engine performance with our engine tune-up service.
 
-### Service Includes:
+### Service Includes
 
 - Replace spark plugs
 - Adjust ignition timing
 - Inspect and replace air filter
 - Check and adjust drive belts
 
-### Pricing:
+### Pricing
 
 Contact us for current pricing information.
 
