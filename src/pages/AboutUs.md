@@ -25,6 +25,7 @@ A Oficina do Zé nasceu do amor por carros e do desejo de oferecer serviços exc
 - **Inspeção e Diagnóstico:** Utilizamos tecnologia avançada para identificar problemas e oferecer soluções precisas.
 - **Atendimento Personalizado:** Cada cliente é único; portanto, oferecemos um atendimento dedicado e consultas personalizadas.
 - **Troca de Óleo:** Utilizamos óleos de qualidade para garantir a lubrificação adequada do motor do seu veículo.
+
 ![Imagem de um empregado a arranjar carro](/img/NIGERIANmanFixingCar.jpg)
 
 ## Compromisso com a Qualidade
