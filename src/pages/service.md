@@ -15,8 +15,6 @@
 
 Aseguramos a longevidade do seu motor com os nossos Oleos Topo de Gama.
 
-![Troca de Óleo](/img/troca-de-oleo.webp)<img src="troca-de-oleo.webp" alt="drawing" width="200" height="500"/>
-
 ### O Serviços Inclui 
 
 - Drena e troca de Oleo Velho
@@ -29,8 +27,6 @@ Aseguramos a longevidade do seu motor com os nossos Oleos Topo de Gama.
 ## Troca de Pneus
 
 Maximize a durabilidade dos seus pneus e melhora a performance com os nossos penus.
-
-![Troca de Óleo](/img/troca_pneu.png)<img src="troca_pneu.jpg" alt="drawing" width="200" height="500"/>
 
 ### O Serviços Inclui 
 
