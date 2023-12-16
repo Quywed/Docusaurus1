@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Oficina do Zé.',
   tagline: 'Carros em segunda e terçeira mão! Serviços sem % fiáveis!',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/car.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -65,10 +65,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'O meu website',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Logotipo da empresa',
+          src: 'img/car.svg',
         },
         items: [
           {
@@ -86,7 +86,7 @@ const config = {
         ],
       },
       footer: {
-        style: 'light',
+        style: 'dark',
         links: [
           {
             title: 'Docs',
