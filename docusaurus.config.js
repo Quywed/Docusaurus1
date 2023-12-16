@@ -93,11 +93,11 @@ const config = {
             items: [
               {
                 label: 'Email',
-                to: 'OficinaZe@gmail.com',
+                to: 'https://www.microsoft.com/',
               },
               {
                 label: 'Telefone: +351 9677tiratirametemete',
-                to: '9677tiratirametemete',
+                to: 'https://www.skype.com/pt/',
               },
               {
                 label: 'Fax',
