@@ -136,7 +136,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Todos os diretios reservados © ${new Date().getFullYear()} Oficina do Zé, Inc.`,
+        copyright: `Todos os direitos reservados © ${new Date().getFullYear()} Oficina do Zé, Inc.`,
       },
       prism: {
         theme: lightCodeTheme,
