@@ -25,7 +25,12 @@ function HomepageHeader() {
       <div className="container">
         <div className={styles.bannerContent}>
           <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
+          <p
+            className="hero__subtitle"
+            style={{ color: 'black' }} // Set the color to black
+          >
+            {siteConfig.tagline}
+          </p>
           <div className={styles.buttons}>
             <Link
               className="button button--secondary button--lg"
