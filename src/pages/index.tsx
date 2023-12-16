@@ -8,14 +8,17 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import styles from './index.module.css';
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   const carImageURL =
     'https://www.shutterstock.com/image-vector/auto-repair-service-car-workshop-600nw-1945441306.jpg'; // Replace with an appropriate car workshop image
 
   return (
     <header
       className={clsx('hero hero--primary', styles.heroBanner)}
-      style={{ backgroundImage: `url(${carImageURL})` }}
+      style={{
+        backgroundImage: `url(${carImageURL})`,
+        backgroundSize: 'cover',
+      }}
     >
       <div className="container">
         <div className={styles.bannerContent}>
