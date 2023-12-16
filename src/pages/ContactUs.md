@@ -8,6 +8,8 @@
 
 ## Mapa com Localização da Oficina
 
+![Mapa Oficina](/img/MAPA.png)
+
 
 
 
