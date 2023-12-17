@@ -77,8 +77,14 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Coisas', position: 'left'},
-          {to: '/blog', label: 'Servicos', position: 'left'},
+          {
+            type: 'docSidebar',
+            sidebarId: 'serviceSidebar',
+            position: 'left',
+            label: 'Servicos',
+          },
+          //{to: '/blog', label: 'Coisas', position: 'left'},
+
           
           
         ],
