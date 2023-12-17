@@ -78,7 +78,6 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/services', label: 'Serviços', position: 'left'},
         ],
       },
       footer: {
