@@ -90,7 +90,7 @@ const config = {
             title: 'Contactos',
             items: [
               {
-                label: 'Email',
+                label: 'Email: OficinaZe@gmail.com',
                 to: 'https://www.microsoft.com/',
               },
               {
@@ -98,7 +98,7 @@ const config = {
                 to: 'https://www.skype.com/pt/',
               },
               {
-                label: 'Fax',
+                label: 'Fax: nseioquemeter',
                 to: 'https://tutoria.ualg.pt',
               },
             ],
