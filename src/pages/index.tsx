@@ -10,7 +10,7 @@ import styles from './index.module.css';
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   const carImageURL =
-    'https://www.shutterstock.com/image-vector/auto-repair-service-car-workshop-600nw-1945441306.jpg'; // Replace with an appropriate car workshop image
+    'https://gomechanic.in/addons/878e15c1.png'; // Replace with an appropriate car workshop image
 
   return (
     <header
