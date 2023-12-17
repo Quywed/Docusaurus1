@@ -41,7 +41,7 @@ function HomepageHeader() {
               className="button button--secondary button--lg"
               to="/service"
             >
-              Os nossos servicos🔧.
+              Os nossos servicos🔧
             </Link>
           </div>
         </div>
