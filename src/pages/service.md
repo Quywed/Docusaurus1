@@ -4,7 +4,7 @@
 
 ## Principais Serviços da nossa Oficina
 
-- Troca de Oleo]
+- Troca de Oleo
 - Troca de Pneus
 - Inspeção
 - Tune-up ao seu Motor
