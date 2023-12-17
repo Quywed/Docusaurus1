@@ -77,10 +77,6 @@ const config = {
             position: 'left',
             label: 'Servicos',
           },
-          {to: '/blog', label: 'Coisas', position: 'left'},
-
-          
-          
         ],
       },
       footer: {
