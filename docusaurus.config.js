@@ -78,12 +78,7 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialServices',
-            position: 'left',
-            label: 'Serviços',
-          },
+          
           
         ],
       },
