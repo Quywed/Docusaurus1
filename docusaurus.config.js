@@ -124,7 +124,7 @@ const config = {
             title: 'About Us',
             items: [
               {
-                label: 'Blog',
+                label: 'Mais informacao sobre nos',
                 to: '/pages/AboutUs',
               },
             ],
