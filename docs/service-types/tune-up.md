@@ -18,25 +18,25 @@ O Tune-Up do Motor é essencial para melhorar a eficiência, economia de combust
  
 Os injetores antigos são substituídos por novos para garantir uma pulverização eficiente de combustível.
  
-![Troca de Injetores](placeholder_image1.jpg)
+![Troca de Injetores](/img/.jpg)
  
 ### Passo 2: Ajuste no Timing da Ignição
  
 O timing da ignição é ajustado para otimizar a combustão e o desempenho do motor.
  
-![Ajuste no Timing da Ignição](placeholder_image2.jpg)
+![Ajuste no Timing da Ignição](/img/.jpg)
  
 ### Passo 3: Inspeção e Troca do Filtro de Ar
  
 O filtro de ar é inspecionado e substituído, garantindo uma entrada de ar limpa para o motor.
  
-![Inspeção e Troca do Filtro de Ar](placeholder_image3.jpg)
+![Inspeção e Troca do Filtro de Ar](/img/.jpg)
  
 ### Passo 4: Ajuste da Correia
  
 A correia do motor é ajustada para garantir o funcionamento suave de componentes como alternador e bomba d'água.
  
-![Ajuste da Correia](placeholder_image4.jpg)
+![Ajuste da Correia](/img/.jpg)
  
 ## Conclusão
  
