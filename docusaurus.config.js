@@ -121,11 +121,11 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'About Us',
             items: [
               {
                 label: 'Blog',
-                to: '/blog',
+                to: '/pages/AboutUs',
               },
             ],
           },
