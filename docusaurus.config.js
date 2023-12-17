@@ -78,6 +78,7 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Coisas', position: 'left'},
+          {to: '/services', label: 'Servicos', position: 'left'},
           
           
         ],
