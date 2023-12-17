@@ -26,13 +26,13 @@
           <div className={styles.bannerContent}>
             <h1
               className="hero__title"
-              style={{ color: 'grey' }} // Change the color
+              style={{ color: 'lightgrey' }} // Change the color
             >
               {siteConfig.title}
             </h1>
             <p
               className="hero__subtitle"
-              style={{ color: 'grey' }} // Change the color
+              style={{ color: 'lightgrey' }} // Change the color
             >
               {siteConfig.tagline}
             </p>
