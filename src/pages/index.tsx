@@ -19,18 +19,18 @@ function HomepageHeader() {
         backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(${carImageURL})`,
         backgroundSize: 'cover',
         backgroundRepeat: 'no-repeat',
-        height: '310px', // Set the desired height
+        height: '310px', // Mudar tamanho do header
       }}
     >
       <div className="container">
         <div className={styles.bannerContent}>
           <h1  className="hero__title"
-            style={{ color: 'orange' }} // Set the color to black
+            style={{ color: 'saddlebrown' }} // Mudar a cor
             >{siteConfig.title}
           </h1>
           <p
             className="hero__subtitle"
-            style={{ color: 'darkorange' }} // Set the color to black
+            style={{ color: 'saddlebrown' }} // Mudar a cor
           >
             {siteConfig.tagline}
           </p>
