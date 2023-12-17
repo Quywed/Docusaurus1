@@ -27,7 +27,7 @@ A troca regular de óleo é essencial para garantir o bom funcionamento do motor
 Antes de começar, o veículo é levantado de forma segura para facilitar o acesso ao cárter de óleo.
  
  
-#Levantamento do Veículoplaceholder_image1.jpg
+![Levantamento do Veículo](/img/veiculosLevantado.jpg)
  
  
 ### Passo 2: Drenagem do Óleo Antigo
@@ -36,7 +36,7 @@ Antes de começar, o veículo é levantado de forma segura para facilitar o aces
 O óleo antigo é drenado do motor, removendo impurezas e resíduos acumulados.
  
  
-#Drenagem do Óleoplaceholder_image2.jpg
+![Drenagem do Óleo Antigo](/img/mudarOleo.jpg)
  
  
 ### Passo 3: Troca do Filtro de Óleo
@@ -45,7 +45,7 @@ O óleo antigo é drenado do motor, removendo impurezas e resíduos acumulados.
 O filtro de óleo é substituído para garantir a eficiência do novo óleo e evitar a contaminação.
  
  
-#Troca do Filtro de Óleoplaceholder_image3.jpg
+![Troca do Filtro de Óleo](/img/trocaFIltro.jpg)
  
  
 ### Passo 4: Adição do Novo Óleo
@@ -54,7 +54,7 @@ O filtro de óleo é substituído para garantir a eficiência do novo óleo e ev
 O novo óleo é cuidadosamente adicionado, atendendo às especificações recomendadas pelo fabricante.
  
  
-#Adição do Novo Óleoplaceholder_image4.jpg
+![Adição do Novo Óleo](/img/NovoOleo.jpg)
  
  
 ### Passo 5: Verificação de Níveis
@@ -63,7 +63,7 @@ O novo óleo é cuidadosamente adicionado, atendendo às especificações recome
 Os níveis de óleo são verificados e ajustados conforme necessário, garantindo a quantidade adequada para o motor.
  
  
-#Verificação de Níveiplaceholder_image5.jpg
+![Verificação de Níveis](/img/Niveis.jpg)
  
  
 ## Conclusão
