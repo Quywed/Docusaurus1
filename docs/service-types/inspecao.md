@@ -18,31 +18,31 @@ A inspeção regular do carro é fundamental para identificar potenciais problem
  
 Realizamos um teste completo para avaliar o estado geral do seu veículo.
  
-![Teste Completo ao Seu Carro](placeholder_image1.jpg)
+![Teste Completo ao Seu Carro](/img/testeMecanico.jpg)
  
 ### Passo 2: Verificação dos Fluidos
  
 Os níveis de todos os fluidos, como óleo, refrigerante e fluido de freio, são verificados e ajustados conforme necessário.
  
-![Verificação dos Fluidos](placeholder_image2.jpg)
+![Verificação dos Fluidos](/img/verificaçãoFluidos.jpg)
  
 ### Passo 3: Inspeção dos Freios
  
 Realizamos uma inspeção minuciosa dos componentes dos freios para garantir seu funcionamento adequado.
  
-![Inspeção dos Freios](placeholder_image3.jpg)
+![Inspeção dos Freios](/img/freiosPastilha.jpg)
  
 ### Passo 4: Verificação dos Pneus
  
 Cada pneu é inspecionado quanto a danos, desgaste irregular e a pressão é ajustada conforme necessário.
  
-![Verificação dos Pneus](placeholder_image4.jpg)
+![Verificação dos Pneus](/img/VerificacaoEstado.png)
  
 ### Passo 5: Análise Eletrónica
  
 Utilizamos ferramentas eletrônicas para diagnosticar eventuais problemas nos sistemas eletrônicos do veículo.
  
-![Análise Eletrónica](placeholder_image5.jpg)
+![Análise Eletrónica](/img/analiseEletronica.jpg)
  
 ## Conclusão
  
