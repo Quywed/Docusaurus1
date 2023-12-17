@@ -121,7 +121,7 @@ const config = {
             ],
           },
           {
-            title: 'About Us',
+            title: 'About Us ',
             items: [
               {
                 label: 'Mais informacao sobre nos',
