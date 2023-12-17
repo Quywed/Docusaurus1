@@ -28,11 +28,11 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Reparo de Biciletas',
+    title: 'Reparo de Bicicletas',
     Svg: require('@site/static/img/bike-14.svg').default,
     description: (
       <>
-        Oferecemos servico de arranjo a biciletas de criancas menores de 30 anos.
+        Oferecemos servico de arranjo a bicicletas de criancas menores de 30 anos.
       </>
     ),
   },
