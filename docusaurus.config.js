@@ -125,7 +125,7 @@ const config = {
             items: [
               {
                 label: 'Mais informacao sobre nos',
-                to: '/pages/AboutUs',
+                to: '/AboutUs',
               },
             ],
           },
