@@ -10,7 +10,7 @@ import styles from './index.module.css';
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   const carImageURL =
-    'https://gomechanic.in/addons/878e15c1.png'; // Replace with an appropriate car workshop image
+    'https://thumbs.dreamstime.com/b/spare-parts-machinery-sketch-gears-wheels-background-hand-drawn-white-horizontal-banner-vector-pattern-design-drawing-176631112.jpg'; // Replace with an appropriate car workshop image
 
   return (
     <header
