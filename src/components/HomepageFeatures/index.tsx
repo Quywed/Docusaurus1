@@ -1,14 +1,11 @@
 import React from 'react';
 import clsx from 'clsx';
-import Link from '@docusaurus/Link';
-
 import styles from './styles.module.css';
 
 type FeatureItem = {
   title: string;
   Svg: React.ComponentType<React.ComponentProps<'svg'>>;
   description: JSX.Element;
-  link?: string; // Add a link property to FeatureItem
 };
 
 const FeatureList: FeatureItem[] = [
@@ -17,7 +14,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/car_oil.svg').default,
     description: (
       <>
-        Fazemos a mudança de óleo na compra de serviços superior acima de 10€. Garantidamente que não é só água...
+        Fazemos a mudança de óleo na compra de serviços superior acima de 10€. Garantidadmente que não é só água...
       </>
     ),
   },
@@ -35,23 +32,13 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/bike-14.svg').default,
     description: (
       <>
-        Oferecemos serviço de arranjo a bicicletas de crianças menores de 30 anos.
+        Oferecemos servico de arranjo a bicicletas de criancas menores de 30 anos.
       </>
     ),
-  },
-  {
-    title: 'Serviços',
-    Svg: require('@site/static/img/bike-14.svg').default,
-    description: (
-      <>
-        Clique <Link to="/docs/service">neste link</Link> para aceder ao conjunto de serviços que disponibilizamos.
-      </>
-    ),
-    link: '/docs/service', // Specify the link for the "Serviços" feature
   },
 ];
 
-function Feature({ title, Svg, description, link }: FeatureItem) {
+function Feature({title, Svg, description}: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
@@ -59,7 +46,7 @@ function Feature({ title, Svg, description, link }: FeatureItem) {
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
-        <p>{link ? <Link to={link}>{description}</Link> : description}</p>
+        <p>{description}</p>
       </div>
     </div>
   );
