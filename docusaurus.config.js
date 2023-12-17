@@ -121,11 +121,15 @@ const config = {
             ],
           },
           {
-            title: 'About Us ',
+            title: 'Páginas: ',
             items: [
               {
                 label: 'Mais informacao sobre nos',
                 to: '/AboutUs',
+              },
+              {
+                label: 'Contacto-nos',
+                to: '/ContactUs',
               },
             ],
           },
