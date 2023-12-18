@@ -77,6 +77,11 @@ const config = {
             position: 'left',
             label: 'Servicos',
           },
+          {
+            to: 'AboutUs',
+            position: 'left',
+            label: 'teste',
+          },
         ],
       },
       footer: {
