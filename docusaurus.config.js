@@ -80,7 +80,12 @@ const config = {
           {
             to: 'AboutUs',
             position: 'left',
-            label: 'teste',
+            label: 'Sobre Nós',
+          },
+          {
+            to: 'ContactUs',
+            position: 'left',
+            label: 'Contactos',
           },
         ],
       },
